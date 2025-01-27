@@ -1,0 +1,162 @@
+.section-one{
+    background: black;
+    color: white;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+
+.section-one__name{
+    margin-top: 5px;
+}
+
+.section-one__names{
+    margin-top: 1px;
+    margin-bottom: 5px;
+    color: gray;
+    text-decoration: none;
+}
+.container{
+    padding-left: 440px;
+    padding-right: 420px;
+    
+}
+.section-two{
+    width: 150px;
+    height: 375px;
+    background-color: white;
+    border: solid black;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+
+.section-two__img{
+      width : 150px;
+      height: 150px;
+}
+
+.section-two__I{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.section-two__btnI{
+    margin-left: 35px;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 2px;
+    display: inline-block;
+    
+}
+
+.section-three{
+    width: 150px;
+    height: 375px;
+    background-color: white;
+    border: solid black;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+
+.section-three__img{
+      width : 150px;
+      height: 150px;
+}
+
+.section-three__N{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.section-three__btnN{
+    margin-left: 35px;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 2px;
+    display: inline-block;
+    
+}
+
+.section-four{
+    width: 150px;
+    height: 375px;
+    background-color: white;
+    border: solid black;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.section-four__img{
+      width : 150px;
+      height: 150px;
+}
+
+.section-four__IT{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.section-four__btnIT{
+    margin-left: 35px;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 2px;
+    display: inline-block;
+    
+}
+
+.section-five{
+    width: 150px;
+    height: 375px;
+    background-color: white;
+    border: solid black;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.section-five__img{
+      width : 150px;
+      height: 150px;
+}
+
+.section-five__m{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.section-five__btnm{
+    margin-left: 35px;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 2px;
+    
+}
+
+.contact-form{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    margin-top: 10px; 
+    justify-items: center;
+}
+
+.contact-form__submit{
+    display: block;
+    width: 500px;
+    text-align: center;
+    background-color: maroon;
+}
